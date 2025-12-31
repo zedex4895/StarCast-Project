@@ -411,7 +411,7 @@ const LandingPage = () => {
 
           <div className="w-full bg-black py-8">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 mb-6 sm:mb-8">
-              <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-white tracking-wide">
+              <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white tracking-wide">
                 Trending Auditions
               </h2>
             </div>
